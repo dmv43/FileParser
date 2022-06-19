@@ -1,0 +1,3 @@
+Cough     1 10
+Alzhemer's0-14
+Aneurysm  1122

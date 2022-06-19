@@ -1,0 +1,4 @@
+Cough     11 10
+Arthritis 01-14
+Aneurysm  11122
+S Cough   00122

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileParser", "src\FileParser\FileParser.csproj", "{6CB58D1D-39DF-4E21-A765-57251116596E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AAA7CF87-CFB5-4AFE-95B8-F0FACD1E1B3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E127303E-EAED-43B8-86C7-06846F82A542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileParser.UnitTests", "tests\FileParser.UnitTests\FileParser.UnitTests.csproj", "{749780C4-8D07-4340-B2B5-62AA355199F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB58D1D-39DF-4E21-A765-57251116596E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB58D1D-39DF-4E21-A765-57251116596E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB58D1D-39DF-4E21-A765-57251116596E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB58D1D-39DF-4E21-A765-57251116596E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749780C4-8D07-4340-B2B5-62AA355199F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749780C4-8D07-4340-B2B5-62AA355199F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749780C4-8D07-4340-B2B5-62AA355199F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749780C4-8D07-4340-B2B5-62AA355199F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CB58D1D-39DF-4E21-A765-57251116596E} = {AAA7CF87-CFB5-4AFE-95B8-F0FACD1E1B3A}
+		{749780C4-8D07-4340-B2B5-62AA355199F4} = {E127303E-EAED-43B8-86C7-06846F82A542}
+	EndGlobalSection
+EndGlobal
